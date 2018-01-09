@@ -1,0 +1,1 @@
+aws acm request-certificate --domain-name "*.domain.com" --validation-method DNS --subject-alternative-names "domain.com", "*.domain-1.com", "domain-1.com" 
