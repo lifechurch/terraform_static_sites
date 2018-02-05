@@ -4,7 +4,7 @@ Terraform templates to generate multiple static websites hosted on AWS S3, front
 
 ## Getting Started
 
-Check this [blog post](https://medium.com/p/terraform-static-sites-53bdc591709a) for instructions on the why and how
+Check this [blog post](https://blog.opendigerati.com/terraform-static-sites-53bdc591709a) for instructions on the why and how
 
 ## Contributing
 
